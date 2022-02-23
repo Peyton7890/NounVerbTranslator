@@ -1,0 +1,10 @@
+//convert following format to functional code.
+
+hi
+    import java.io.some.import
+    int someNumber
+        indent twice to add a comment
+    String someString
+    void someFunction()
+        You could add a function description here
+    int anotherFunction()

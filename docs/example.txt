@@ -1,0 +1,18 @@
+Example
+    import java.io.some.import
+    int someNumber
+        indent twice to add a comment
+    String someString
+    void someFunction()
+        You could add a function description here
+    int anotherFunction()
+
+abstract ExampleTwo
+    int someNumber
+        indent twice to add a comment
+    String someString
+    void someFunction()
+    abstract void anotherFunction()
+
+ExampleThree extends ExampleTwo
+    void anotherFunction()
